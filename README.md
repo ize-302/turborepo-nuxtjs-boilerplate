@@ -24,3 +24,15 @@ ui                |  Shared style library powered by NuxtUI
 - [Nuxt3](https://nuxt.com/)
 - [TailwindCSS](https://tailwindcss.com/)/[NuxtUI](https://ui.nuxt.com/getting-started)
 - [Biomejs](https://biomejs.dev/) for linting and formatting
+
+
+### Deployments
+
+#### Netlify
+Deploying the admin app to Netlify
+<img src="./netlify-configuration-settings.png" alt="Logo">
+
+
+#### Vercel
+Deploying the admin app to vercel
+<img src="./vercel-configuration-settings.png" alt="Logo">
